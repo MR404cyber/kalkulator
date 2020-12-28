@@ -6,7 +6,7 @@ using namespace std;
 void banner()
 {
     string banner = "\e[31m╦╔═┌─┐┬  ┬┌─┬ ┬┬  ┌─┐┌┬┐┌─┐┬─┐\e[37m\n╠╩╗├─┤│  ├┴┐│ ││  ├─┤ │ │ │├┬┘\e[31m\n╩ ╩┴ ┴┴─┘┴ ┴└─┘┴─┘┴ ┴ ┴ └─┘┴└─";
-    string sub = "\e[30;1m[\e[31;1m-\e[30;1m] \e[37;1mAuthor \e[30;1m: \e[37;1mabilseno11\n\e[30;1m[\e[31;1m-\e[30;1m] \e[37;1mName \e[30;1m: \e[37;1mKalkulator C++ Sederhana\n";
+    string sub = "\e[30;1m[\e[31;1m-\e[30;1m] \e[37;1mAuthor \e[30;1m: \e[37;1mraihan\n\e[30;1m[\e[31;1m-\e[30;1m] \e[37;1mName \e[30;1m: \e[37;1mKalkulator C++ Sederhana\n";
     cout <<banner<<"\n"<<sub;
 }
 void menu()
